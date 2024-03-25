@@ -88,4 +88,6 @@ dependencies {
 //    implementation project(':uniplugin_richalert')
     implementation project(':jly-plugin')
 
+    implementation(name: 'LocalOperationSdk', ext: 'aar')
+
 }
